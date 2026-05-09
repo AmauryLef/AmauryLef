@@ -9,10 +9,10 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝  
 ```
 
-### 🎓 Étudiant ingénieur · ESIEA Paris · Développeur Full Stack
+### 🎓 Étudiant ingénieur · ESIEA Paris · Développeur Full Stack & Aspirant Animatronicien
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaury-lefevre-3ab249294/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://amaurylef.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaury-lefevre91600/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://amaurylef.github.io/index.html)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amxura_lfvvv/)
 
 </div>
@@ -21,13 +21,13 @@
 
 ## 👋 À propos de moi
 
-Je m'appelle **Amaury Lefevre**, 21 ans, passionné de développement logiciel.  
+Je m'appelle **Amaury Lefevre**, 21 ans, passionné d'électronique et de développement logiciel.  
 Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, après un **BTS SIO option SLAM**.
 
 - 🏫 **ESIEA** — École Supérieure d'Informatique, Électronique, Automatique
 - 📜 **BTS SIO SLAM** — Solutions Logicielles et Applications Métiers
 - 💡 Curieux, autonome, et toujours en train d'apprendre
-- 🌍 Basé à **Paris**, France
+- 🌍 Basé à **Ivry sur Seine**, France
 
 ---
 
@@ -55,13 +55,13 @@ Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, apr�
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
+/*<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmauryLef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauryLef&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+</div>*/
 
 ---
 
@@ -79,7 +79,7 @@ Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, apr�
 
 - [ ] 🔧 Renforcer mes compétences en **développement backend** (Spring Boot / Node.js)
 - [ ] 🤝 Contribuer à des projets **open source**
-- [ ] 📱 Développer mes premières applications **mobile**
+- [ ] 📱 Développer mes connaissances en Machine Learning pour créer une IA
 - [ ] 📄 Préparer mon **stage ingénieur**
 
 ---
