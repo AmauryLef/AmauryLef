@@ -45,6 +45,8 @@ Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, apr�
 
 **Frameworks & Outils**
 
+![Symfony](https://img.shields.io/badge/symfony-grey?logo=symfony?style=flat-square&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -53,23 +55,12 @@ Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, apr�
 
 ---
 
-## 📊 Statistiques GitHub
-
-/*<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmauryLef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauryLef&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>*/
-
----
-
 ## 🚀 Projets mis en avant
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [🌐 Portfolio](https://github.com/AmauryLef/AmauryLef.github.io) | Mon portfolio personnel — compétences & expériences | HTML · CSS · JS |
+| [🌐 IA ](https://github.com/AmauryLef/self-taught-AI) | Une IA personnelle créée en autodidacte | LANGCHAIN · PYTHON |
 
 > D'autres projets arrivent bientôt...
 
@@ -88,6 +79,6 @@ Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, apr�
 
 *"Le code est comme l'humour. Quand il faut l'expliquer, c'est mauvais signe."* — Cory House
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AmauryLef&color=blue&style=flat-square)
+
 
 </div>
