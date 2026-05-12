@@ -24,10 +24,10 @@
 Je m'appelle **Amaury Lefevre**, 21 ans, passionné d'électronique et de développement logiciel.  
 Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, après un **BTS SIO option SLAM**.
 
-- 🏫 **ESIEA** — École Supérieure d'Informatique, Électronique, Automatique
+- 🏫 **ESIEA** — École Supérieure d'Informatique, Électronique, Automatique: Je vise la spécialisation en SEA.
 - 📜 **BTS SIO SLAM** — Solutions Logicielles et Applications Métiers
 - 💡 Curieux, autonome, et toujours en train d'apprendre
-- 🌍 Basé à **Ivry sur Seine**, France
+- 🌍 Basé à **Savigny sur Orge**, France
 
 ---
 
@@ -45,7 +45,11 @@ Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, apr�
 
 **Frameworks & Outils**
 
-![Symfony](https://img.shields.io/badge/symfony-grey?logo=symfony?style=flat-square&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-B345F1?style=flat-square&logo=phpstorm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -68,17 +72,17 @@ Actuellement en **2e année de cycle préparatoire ingénieur à l'ESIEA**, apr�
 
 ## 🎯 Objectifs actuels
 
-- [ ] 🔧 Renforcer mes compétences en **développement backend** (Spring Boot / Node.js)
-- [ ] 🤝 Contribuer à des projets **open source**
+- [ ] 🔧 Créer un profil hybride avec des connaissances croisée en **Systèmes Embarqués Autonomes** et **Data & IA**
+
+- [ ] 🔧 détecter des pannes, proposer des **solutions électroniques** et **numériques**
+- [ ] 🤝 Contribuer à des projets de **robotique**
 - [ ] 📱 Développer mes connaissances en Machine Learning pour créer une IA
-- [ ] 📄 Préparer mon **stage ingénieur**
+- [ ] 📄 Rechercher mon **alternance ingénieur**
 
 ---
 
 <div align="center">
 
 *"Le code est comme l'humour. Quand il faut l'expliquer, c'est mauvais signe."* — Cory House
-
-
 
 </div>
