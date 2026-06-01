@@ -83,7 +83,7 @@ Currently in my 2nd year of the preparatory engineering cycle at ESIEA, followin
 | [🌐 Portfolio](https://github.com/AmauryLef/AmauryLef.github.io) | My personal portfolio — skills & experiences | HTML · CSS · JS |
 | [⚙️ IAMD ](https://github.com/AmauryLef/attraction-management-dashboard) | An Interactive Management Dashboard for Attractions| SYMFONY · PHP |
 | [🤖 IA ](https://github.com/AmauryLef/self-taught-AI) | A personal AI built through self-learning | LANGCHAIN · PYTHON |
-| [🗄️ BigBinary ](https://github.com/AmauryLef/RepositoryBigBinary) | Doing operations on huge numbers in binary | C |
+| [🗄️ Hacknet ](https://github.com/AmauryLef/Hacknet) |Police vs Thieves retro game | C |
 
 > More projects coming soon...
 
