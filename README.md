@@ -36,6 +36,8 @@ Currently in my 2nd year of the preparatory engineering cycle at ESIEA, followin
 💡 Curious, self-driven, and always learning
 🌍 Based in Savigny-sur-Orge, France
 
+<img src="https://github-widgetbox.vercel.app/api/profile?username=AmauryLef&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox"/>
+
 ---
 
 ## 🛠️ Tech Stack
